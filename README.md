@@ -17,8 +17,8 @@ This project transforms raw survey responses into a clean, interactive dashboard
 ## 🛠️ Tools Used
 
 - **Power Query** — Data cleaning and transformation (handling missing values, standardizing formats, removing duplicates, fixing data types)
-- **Power BI Desktop** — Data modeling and dashboard design
 - **DAX** — Custom measures for KPIs and calculated metrics
+- **Power BI Desktop** — Data modeling and dashboard design
 
 ## 🧹 Data Cleaning Process
 
