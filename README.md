@@ -49,24 +49,24 @@ Before visualization, the raw survey data was processed in Power Query to:
 ## 📁 Repository Structure
 
 ```
-├── README.md
-├── dashboard.pbix
 ├── data/
 │   └── survey_data_raw.csv
 ├── images/
 │   └── dashboard_preview.png
+├── README.md
+├── dashboard.pbix
 ```
 
 ## 🚀 How to Use
 
 1. Clone this repository
 2. Open `dashboard.pbix` in Power BI Desktop
-3. Use the **Job Title** slicer at the top to filter the dashboard by role
+3. Use the **Job Title** slicer at the left top to filter the dashboard by role
 4. Explore cross-filtering by clicking on any chart element (e.g., a country or job title)
 
 ## 📄 Data Source
 
-[Add source/citation of the original survey dataset here]
+survey_data_raw.xlsx
 
 ## 📬 Contact
 
