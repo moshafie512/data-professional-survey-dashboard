@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing survey data from 630 data professionals, exploring salary trends, job satisfaction, career entry difficulty, and popular tools within the data industry.
 
-![Dashboard Preview](.images/dashboard_preview.png)
+![Dashboard Preview](./dashboard_preview.png)
 
 ## 📌 Overview
 
