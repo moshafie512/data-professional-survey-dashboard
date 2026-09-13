@@ -68,6 +68,7 @@ Before visualization, the raw survey data was processed in Power Query to:
 │   └── survey_data_raw.csv
 ├── images/
 │   └── dashboard_preview.png
+│   └── power_query.png
 ├── README.md
 ├── dashboard.pbix
 ```
