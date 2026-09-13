@@ -64,12 +64,9 @@ Before visualization, the raw survey data was processed in Power Query to:
 3. Use the **Job Title** slicer at the left top to filter the dashboard by role
 4. Explore cross-filtering by clicking on any chart element (e.g., a country or job title)
 
-## 📄 Data Source
-
-survey_data_raw.xlsx
 
 ## 📬 Contact
 
 Feel free to connect or reach out with feedback:
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
+- LinkedIn: [www.linkedin.com/in/mohamed-elshafie-a53232383]
+- GitHub: [https://github.com/moshafie512]
