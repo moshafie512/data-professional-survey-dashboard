@@ -42,10 +42,24 @@ Before visualization, the raw survey data was processed in Power Query to:
 
 ## 🔑 Key Insights
 
-- **Python** is the dominant programming language among respondents, far ahead of R and other languages.
-- **~43%** of respondents rated breaking into the data field as "neither easy nor difficult."
-- **Salary satisfaction (4.27/10)** is noticeably lower than **work/life balance satisfaction (5.74/10)**, suggesting compensation may be a bigger pain point than workload for many professionals.
-- The **United States** and a broad "Other" category make up the majority of respondents, followed by India, the UK, and Canada.
+- **Python dominates the field**: It is the clear language of choice among respondents, 
+  far outpacing R and other languages combined — reflecting its central role in the 
+  modern data stack (from analysis to machine learning).
+
+- **The path into data isn't seen as a major barrier**: Only ~11% of respondents rated 
+  breaking into the field as "difficult" or "very difficult," while the majority 
+  (~43%) felt it was "neither easy nor difficult" — suggesting that structured effort, 
+  rather than exceptional difficulty, is the main hurdle for newcomers.
+
+- **Pay, not workload, is the bigger frustration**: Salary satisfaction (4.27/10) trails 
+  work/life balance satisfaction (5.74/10) by a notable margin. This gap hints that 
+  compensation — not hours or workload — may be the leading driver of dissatisfaction 
+  and potential turnover in data roles.
+
+- **The U.S. leads, but the field is globally distributed**: While the United States 
+  represents the largest single group of respondents, it accounts for less than half 
+  of the total sample — with meaningful representation from India, the UK, and Canada, 
+  reflecting data as a genuinely global profession.
 
 ## 📁 Repository Structure
 
@@ -65,6 +79,11 @@ Before visualization, the raw survey data was processed in Power Query to:
 3. Use the **Job Title** slicer at the left top to filter the dashboard by role
 4. Explore cross-filtering by clicking on any chart element (e.g., a country or job title)
 
+## 📄 Data Source
+
+This dataset is a public "Data Professional Survey" dataset used for practice purposes, 
+originally featured in a tutorial by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) on YouTube.
+This project focuses on independent data cleaning (Power Query) and dashboard design/insights.
 
 ## 📬 Contact
 
